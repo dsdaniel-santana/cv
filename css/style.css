@@ -24,7 +24,7 @@
     }
 
     h1 {
-        background-color: #0077D7;
+        background-color: #76b5e8;
         color: white;
         text-align: center;
         padding-top: 10px;
@@ -48,7 +48,7 @@
     }
 
     #box {box-shadow: black 0 0 5px;
-        padding: 5px;
+        padding: 10px;
         display: flex;
         justify-content: space-around;
         align-items: center;
@@ -68,7 +68,9 @@
    h1, h2, h3, h4, h5 p {
     margin: 0;
     padding: 0;
-}
+    }
+
+    li {text-align: left;}
    
 
     
